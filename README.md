@@ -30,11 +30,9 @@ Passionate about programming, I regularly dedicate time to staying updated with 
 ## Rapidfire  
 <table><tr>
 
-- 🌱 I’m currently learning Spring Boot and Jetpack Compose  
-  
-
 - ❓ Ask me about anything related to Java, Dart and Flutter stack and related technologies
 
+- 🌱 I’m currently learning Spring Boot and Jetpack Compose
 
 
 </tr></table>  
