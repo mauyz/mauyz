@@ -17,17 +17,6 @@
 ### Glad to see you here!  
 Self-taught and passionate developer.
 
-I have solid experience in designing, developing, and deploying applications.
-
-Over the past four years, I have developed notable expertise in Dart, Java, and Kotlin. I have particularly focused on mobile development using the Flutter framework and Android SDK.
-
-Passionate about programming, I regularly dedicate time to staying updated with the latest technological trends and exploring new technologies.  
-  
-
-<br/>  
-
-
-## Rapidfire  
 <table><tr>
 
 - ❓ Ask me about anything related to Java, Dart and Flutter stack and related technologies
@@ -59,23 +48,11 @@ Passionate about programming, I regularly dedicate time to staying updated with 
 
 
 ## Github Stats  
-<table><tr>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauyz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauyz&layout=compact&langs_count=7&theme=dracula"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mauyz&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</div>
 
-
-
-</tr></table>  
-
+![Snake animation](https://github.com/mauyz/mauyz/blob/main/github-contribution-grid-snake.svg)
 <br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
