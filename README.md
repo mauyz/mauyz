@@ -19,10 +19,7 @@ Self-taught and passionate developer.
 
 <table><tr>
 
-- ❓ Ask me about anything related to Java, Dart and Flutter stack and related technologies
-
-- 🌱 I’m currently learning Spring Boot and Jetpack Compose
-
+- ❓ Ask me about anything related to Dart & Flutter, Java, TypeScript stack and related technologies
 
 </tr></table>  
 
@@ -48,11 +45,6 @@ Self-taught and passionate developer.
 
 
 ## Github Stats  
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauyz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauyz&layout=compact&langs_count=7&theme=dracula"/>
-
-</div>
 
 ![Snake animation](https://github.com/mauyz/mauyz/blob/main/github-contribution-grid-snake.svg)
 <br/>  
